@@ -14,6 +14,7 @@ public class CalenderClass {
 		System.out.println(cal.get(Calendar.DAY_OF_WEEK));
 		System.out.println(cal.get(Calendar.AM_PM));
 		System.out.println(cal.get(Calendar.MINUTE));
+		
 		                          
 
 	}
