@@ -18,8 +18,16 @@ public class Pyramid1 {
 			
 			System.out.println("");
 		}
+		// 1st one done 
 		System.out.println("Pyramid succesfull");
 		System.out.println("Pyramid succesfully done");
+		// 2nd one done 
+		System.out.println("Pyramid succesfull1");
+		System.out.println("Pyramid succesfully done2");
+		System.out.println("Pyramid succesfull3");
+		System.out.println("Pyramid succesfully done4");
+		System.out.println("Pyramid succesfull5");
+		System.out.println("Pyramid succesfully done6");
 	}
 
 }
