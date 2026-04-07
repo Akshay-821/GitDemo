@@ -18,7 +18,8 @@ public class Pyramid1 {
 			
 			System.out.println("");
 		}
-
+		System.out.println("Pyramid succesfull");
+		System.out.println("Pyramid succesfully done");
 	}
 
 }
